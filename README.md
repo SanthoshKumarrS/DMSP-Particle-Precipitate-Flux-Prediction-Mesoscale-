@@ -10,9 +10,11 @@ Research paper manuscript: [Click Here](https://www.researchgate.net/publication
 
 The target feature is `ELE_TOTAL_ENERGY_FLUX` which is a continuous variable. The task is to predict this variable based on the other 154 features step-by-step by going through each day's task. The scoring metric is `RMSE` or `R2 score.`
 
-Repository Structure
-[Model/](https://github.com/SanthoshKumarrS/DMSP-Particle-Precipitate-Flux-Prediction-Mesoscale-/tree/main/Model): Contains the curated dataset of particle precipitation, solar wind, and geomagnetic activity data.
-[Notebook/](https://github.com/SanthoshKumarrS/DMSP-Particle-Precipitate-Flux-Prediction-Mesoscale-/tree/main/Notebook): Jupyter notebooks detailing data preprocessing, model development, and evaluation.
+###**Repository Structure:**
+
+- [Model/](https://github.com/SanthoshKumarrS/DMSP-Particle-Precipitate-Flux-Prediction-Mesoscale-/tree/main/Model): Contains the curated dataset of particle precipitation, solar wind, and geomagnetic activity data.
+
+- [Notebook/](https://github.com/SanthoshKumarrS/DMSP-Particle-Precipitate-Flux-Prediction-Mesoscale-/tree/main/Notebook): Jupyter notebooks detailing data preprocessing, model development, and evaluation.
 
 **Steps taken to solve the problem**
 
